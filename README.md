@@ -172,7 +172,7 @@ Delete all recipes.
 
 **Response:**
 
-```json
+```
 <number-of-deleted-recipes>
 ```
 
