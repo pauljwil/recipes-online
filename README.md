@@ -4,7 +4,7 @@ Single-page web application for storing your recipes online.
 
 Add, update, and delete recipes in a single-page user interface. This web
 application uses a Go and React-based server/client architecture to store
-recipes in a MongoDB database:
+recipes in a MongoDB database.
 
 ## Table of contents
 * [Installation](#installation)
